@@ -25,4 +25,9 @@ public class StudentController {
     public void registerNewStudent(@RequestBody Student student) {
         studentService.addNewStudent(student);
     }
+
+    @DeleteMapping("/{studentID}")
+    public void deleteStudent(@PathVariable("studentID") Long studentID) {
+        studentService.deleteStudent(studentID);
+    }
 }
