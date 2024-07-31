@@ -1,6 +1,7 @@
-# Simple CRUD Spring Boot Application
+# Spring Boot CRUD Backend
 
-This repository contains a Spring Boot application for managing students. The application provides RESTful endpoints to perform CRUD operations on student data.
+This repository provide simple CRUD Spring Boot Application for manage student. 
+Using Spring Boot, Spring MVC, Spring JPA and PostgreSQL. 
 
 ## Endpoints
 
