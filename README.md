@@ -1,4 +1,4 @@
-# Course Spring Boot Application
+# Simple CRUD Spring Boot Application
 
 This repository contains a Spring Boot application for managing students. The application provides RESTful endpoints to perform CRUD operations on student data.
 
